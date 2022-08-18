@@ -4,7 +4,9 @@ export const ActionTypes = {
     AUTH:'AUTH',
     ADD_TO_LOVES:'ADD_TO_LOVES',
     GET_CATEGORIES: 'GET_CATEGORIES',
+    SET_TAB: 'SET_TAB',
     GET_REQUESTS: 'GET_REQUESTS',
     CREATE_REQUEST: 'CREATE_REQUEST',
+
 }
 
